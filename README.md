@@ -1,1 +1,5 @@
 # diffusion_foundation
+
+
+# Reference
+https://mp.weixin.qq.com/s?__biz=Mzg5ODg0ODMyMg==&mid=2247484627&idx=1&sn=81077c32ad0fbac7abb382784a84e390&chksm=c14daaefafff07289818ad92656962a060176aab519699bcfaec981eefc24ec1cf717446dd6a&mpshare=1&scene=1&srcid=1031foMzcRPwMQdUapnfgHua&sharer_shareinfo=b6f25c1b00b75ca0da74b5429545026b&sharer_shareinfo_first=b6f25c1b00b75ca0da74b5429545026b#rd
